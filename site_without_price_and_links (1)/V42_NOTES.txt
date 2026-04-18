@@ -1,0 +1,12 @@
+v42 Inquiry Form + CTA Flow
+
+這版新增：
+1. Contact 頁重做成正式詢問表單
+2. 全站 CTA 導到 contact.html#project-form
+3. 表單加入姓名、Email、服務、預算、時程、需求描述
+4. 前端示意送出成功訊息
+
+下一版最適合：
+- 真實送出機制
+- 成功頁 / 感謝頁
+- 更完整 FAQ 與流程頁

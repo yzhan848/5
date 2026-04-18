@@ -1,0 +1,11 @@
+v45 Dual Submit Mode
+
+這版新增：
+1. assets/js/form-config.js 設定檔
+2. Contact 表單支援 mailto / Google Form 雙模式
+3. FORM_INTEGRATION_GUIDE.txt 簡易設定說明
+
+下一版最適合：
+- FAQ / Process 獨立頁
+- 手機版細修
+- 真實 API 串接

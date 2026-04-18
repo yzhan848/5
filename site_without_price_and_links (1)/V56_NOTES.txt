@@ -1,0 +1,8 @@
+v56：Photo Refresh + Website Design Direction
+
+這版重點：
+- 全站主要圖片改成更像真實網站設計公司的工作室、會議室、裝置與開發桌面照片。
+- 首頁、About、Services、Advantages、Case、Case Detail、Contact 的文字方向統一改成「網站設計 / 前端開發 / 商業網站」語氣。
+- Case spotlight 改成網站專案情境，不再是偏空泛或不對題的空間敘事。
+- 稍微再壓縮 section 與 hero 間距，減少空白感。
+- 保留原本的轉場、hover、reveal 動畫與表單流程。

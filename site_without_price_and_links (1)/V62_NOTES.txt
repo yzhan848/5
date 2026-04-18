@@ -1,0 +1,10 @@
+v62：Scroll Motion Polish
+
+這版重點：
+1. 滑鼠滾輪往下滾時，首頁與各頁主要卡片、媒體、CTA 會有跟著滾動的動態位移效果。
+2. 補了 scroll fade / scale / 微旋轉，讓整站在往下閱讀時更有動畫感，但不會太浮誇。
+3. 各段 section intro 下方加了動態線條，滾到該段時會有展開感。
+4. 保留 prefers-reduced-motion，相容不想看到動態效果的裝置與使用者設定。
+
+建議下一版：
+v63：Case 頁 hover / 點擊動線再強化 + Contact 表單區塊視覺升級

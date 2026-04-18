@@ -1,0 +1,12 @@
+v47 Motion Polish
+
+這版新增：
+1. 區塊進場 reveal 動畫
+2. 卡片 hover 微動作
+3. CTA 按鈕 hover 細修
+4. 加入 prefers-reduced-motion 保護
+
+下一版最適合：
+- 真實品牌文字內容替換
+- 首頁 hero 再重構
+- 更完整案例頁內容

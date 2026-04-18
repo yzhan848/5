@@ -1,0 +1,13 @@
+v52 Website Design Version
+
+這版調整：
+1. 文字內容改成更偏網站設計 / 品牌官網 / 形象頁面
+2. 圖像素材改成原創的 moodboard / responsive layout / studio visual 方向
+3. 不直接搬外站文字或照片，而是依搜尋方向重做站內內容
+4. 保留原本商業結構，但更像網站設計公司的官網語氣
+
+搜尋方向參考：
+- web design workspace
+- creative agency website screen
+- moodboard ui ux desk
+- responsive website presentation

@@ -1,0 +1,13 @@
+v51 Web Development Design Version
+
+這版調整：
+1. 文字方向改成網站 / 網頁開發設計
+2. 圖像素材改成原創的 coding / UI / wireframe / dashboard 視覺
+3. 首頁與主要頁面的描述更偏前後端、介面、功能與交付
+4. 沿用原本商業結構，但換成更像網站開發設計團隊的內容
+
+素材方向參考：
+- coding workspace
+- ui ux workspace
+- wireframe board
+- multi-screen developer setup

@@ -1,0 +1,9 @@
+Service photo narrative block
+
+這版把 Digital service studio 區塊改成圖片主導的圖文敘述區。
+
+調整方式：
+- 移除原本整段 hero 標題、說明、按鈕與 chips
+- 改成 5 張不重複的搜尋照片
+- 每張卡片使用照片 + 中文敘述，不是單純文字 hero
+- 版型改成一張大卡 + 四張敘事卡

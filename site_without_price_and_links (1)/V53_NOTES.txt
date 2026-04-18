@@ -1,0 +1,13 @@
+v53 Studio / Office / Company / Computer / Phone Version
+
+這版調整：
+1. 圖像素材改成工作室、辦公室、公司、電腦、手機方向
+2. 文字內容維持網頁設計 / 網站設計公司語氣
+3. 依搜尋方向重做站內原創素材，不直接搬用外站照片
+4. 首頁與主要頁面都換成更接近商業公司網站的視覺
+
+搜尋方向參考：
+- studio office computer phone
+- company meeting laptop smartphone
+- web design workspace materials
+- responsive device presentation

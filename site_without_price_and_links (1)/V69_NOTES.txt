@@ -1,0 +1,7 @@
+v69：服務項目文案統一版
+
+本版調整重點：
+1. 全站文案改為以「網站、WordPress、App、SEO、雲端主機」為核心。
+2. 首頁、About、Services、Advantages、Case、Case Detail、Price、Contact、Thank You 全部同步調整。
+3. Header / Footer 品牌文字由「沐川網頁設計」改成「沐川數位服務」。
+4. Contact 表單同步補上可對應 script.js 的欄位名稱：name、email、service、budget、timeline、reference、message，並補上 inquiryForm / formSuccess，讓既有 mailto / Thank You 流程可正常接上。

@@ -1,0 +1,25 @@
+V72：商業科技風 icon / micro UI / case info card 統一
+
+這版調整重點：
+1. 全站新增一致的 service badge 系統
+- 用同一套 badge 語言整理「網站 / WordPress / App / SEO / Cloud」
+- 首頁、Services、Price、Case、Case Detail 的卡片都改用同一套小圖示節奏
+- 避免前面版本那種每區塊像不同網站拼起來的感覺
+
+2. Spotlight / case 切換按鈕改成有識別度的科技風按鈕
+- 每個 case tab 都加上簡潔字母 icon
+- 視覺上更像正式數位服務提案，而不是普通清單按鈕
+
+3. Case 小資訊卡重做
+- 拿掉較雜亂的 mockup 小圖
+- 改成 icon + chips + stats 的資料型卡片
+- 讓案例說明更乾淨，且更貼近「網站 / WordPress / SEO / 雲端主機」這種商業服務站
+
+4. Pricing / FAQ / Flow card 一起統一
+- 價格卡、FAQ 卡、流程卡都補上同一套 badge 系統
+- 整體小元件更一致，商業科技感更完整
+
+本版定位：
+- 不是大改版型
+- 是把全站零散的小圖示、小資訊塊、case 卡片語言收斂成同一套視覺系統
+- 很適合當作下一步再接「細修品牌字級、按鈕 hover、表單 UI、成交 CTA」的基礎版本

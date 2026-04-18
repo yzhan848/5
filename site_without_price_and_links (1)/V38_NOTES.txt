@@ -1,0 +1,33 @@
+v38 Compact Editorial Refresh
+
+這次依照需求調整的重點：
+1. 把原本容易出現的大面積留白收緊
+2. 換成另一組不同的照片素材
+3. 保留首頁 opening motion、Case spotlight、Contact reel 的系統感
+
+版面修改：
+- 首頁首屏改成雙欄高密度組合，左文右圖，不再留大面積空白
+- 各 section 的上下留白收斂，資訊密度提高
+- About 改成更明確的三段敘事
+- Case 改成更緊湊的互動 spotlight 版型
+- Contact 頁上方加入圖片 reel，讓頁面開頭不空
+
+照片素材：
+- 全部改用另一組免費 Unsplash 圖片
+- 已放在 assets/images 內，網站可直接本機開啟預覽
+
+檔案：
+- index.html
+- about.html
+- case.html
+- contact.html
+- assets/css/style.css
+- assets/js/script.js
+- assets/images/*
+
+圖片來源：
+- Aalo Lens / Unsplash
+- Marin Huang / Unsplash
+- T. Selin Erkan / Unsplash
+- Alesia Kazantceva / Unsplash
+- Lisha Riabinina / Unsplash

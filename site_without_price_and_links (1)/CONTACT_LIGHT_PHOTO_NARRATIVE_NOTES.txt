@@ -1,0 +1,13 @@
+這版是接續 site_without_price.zip 往下修改。
+
+調整內容：
+- 只修改 contact.html 首段聯絡區塊
+- 拿掉原本 hero 的大標與說明文字
+- 改成 5 張不重複照片的圖文敘事卡
+- 內容整理成 Project intake / WordPress scope / App request / SEO direction / Cloud hosting
+- 延續米白、淺灰、乾淨商業感的 light 風格
+- 首段使用的照片避開 contact 頁後面 story ribbon 已使用的圖，減少重複感
+
+修改檔案：
+- contact.html
+- CONTACT_LIGHT_PHOTO_NARRATIVE_PREVIEW.jpg

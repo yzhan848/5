@@ -1,0 +1,12 @@
+這版是接續 service_photo_narrative_light_block_site.zip 去修改。
+
+調整內容：
+- 延續米白、淺灰、乾淨商業感的 light 版本
+- 只修改 about.html 首段整合服務區塊
+- 拿掉原本的大段文字與 chips
+- 改成 5 張不重複照片的圖文敘事卡
+- 內容改成：Integrated planning / WordPress / App / SEO / Cloud hosting
+
+修改檔案：
+- about.html
+- ABOUT_LIGHT_SERVICE_PHOTO_NARRATIVE_PREVIEW.jpg

@@ -1,0 +1,13 @@
+FORM INTEGRATION GUIDE
+
+1. 打開 assets/js/form-config.js
+2. 若要用 mailto：
+   - submitMode 改成 "mailto"
+   - recipientEmail 換成你的信箱
+
+3. 若要用 Google Form：
+   - submitMode 改成 "googleForm"
+   - action 換成你的 Google Form formResponse URL
+   - fields 內 entry.xxxxxx 換成你實際的欄位 ID
+
+4. 表單送出後會導向 thank-you.html

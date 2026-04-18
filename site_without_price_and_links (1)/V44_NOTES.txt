@@ -1,0 +1,12 @@
+v44 Mailto Inquiry Ready
+
+這版新增：
+1. Contact 表單改成 mailto 準備版
+2. 提交後會帶入欄位內容到預設信箱
+3. 之後仍會導向 thank-you.html
+4. script.js 內可直接替換收件信箱
+
+下一版最適合：
+- 串 Google Form
+- 串真實後端 API
+- 手機版表單細節優化

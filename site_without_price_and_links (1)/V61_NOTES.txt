@@ -1,0 +1,11 @@
+v61：Opening Motion + About Narrative
+
+這版重點：
+1. 首頁新增 opening motion 開場，進站先有品牌感，再進入主視覺與 CTA。
+2. 首頁補一段 opening intro panel，讓首頁的「開場節奏」更明顯。
+3. About 頁整頁改寫成比較有敘事感的版本，不再只是簡單介紹，而是把品牌印象、頁面角色、閱讀節奏、詢問轉換都講清楚。
+4. About 新增 narrative cards / editorial layout / closing statement，整體更像正式設計公司官網。
+5. 保留 reduced motion 相容，避免只做效果不顧使用體驗。
+
+建議下一版：
+v62：Case 頁案例敘事升級 + 首頁 CTA 區塊再強化

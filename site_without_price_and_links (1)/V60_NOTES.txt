@@ -1,0 +1,17 @@
+v60：Website Design Image Refresh
+
+本次調整重點：
+- 全站主視覺改為較貼近「網站設計 / 提案 / 介面規劃 / 團隊協作」的素材方向
+- 素材以搜尋取得的辦公、裝置、設計協作情境為主，加入可接受的人物畫面
+- 首頁、About、Services、Advantages、Case、Contact 主要圖片已重新整理
+- 避免同頁面重複使用相同照片，並把部分容易顯得雜亂的區塊改為乾淨的 UI mockup 卡片
+- Case / Case Detail 裡的補充視覺改成非重疊式 mockup，讓版面更像網站提案稿
+- 新增 CSS mockup 元件，讓沒有放照片的地方仍保有網站設計感
+
+檔案說明：
+- 新圖片放在 assets/images/v60/
+- 主要樣式仍使用 assets/css/style.css，已附加 mockup 樣式
+
+備註：
+- 這版重點是先把圖片方向修正到更接近網站設計公司語境
+- 下一步可再做：首頁 opening motion、About 敘事文案重寫、Case 頁互動細節微調

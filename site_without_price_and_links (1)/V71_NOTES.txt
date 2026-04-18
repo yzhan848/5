@@ -1,0 +1,10 @@
+V71_NOTES.txt
+
+v71：商業服務圖片重整版
+
+這版重點：
+- 全站主要照片重新換成更接近「網站 / WordPress / App / SEO / 雲端主機」的商業服務風格
+- 把首頁、Services、About、Advantages、Contact、Price、Case 主圖改成更一致的辦公室 / 螢幕 / 手機 / 主機機房視覺
+- 大幅降低原本重複出現的照片，讓每頁閱讀感更像正式接案公司官網
+- Case spotlight 也改成更符合網站建置、WordPress、App 展示、雲端維運的案例畫面
+- 補一點圖片顏色與對比統一，讓背景與整體版面更協調

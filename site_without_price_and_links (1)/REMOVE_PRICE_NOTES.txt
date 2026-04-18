@@ -1,0 +1,5 @@
+這版是接續 case_light_photo_narrative_site.zip 往下修改。
+
+調整內容：
+- 刪除 price.html
+- 其他檔案不變

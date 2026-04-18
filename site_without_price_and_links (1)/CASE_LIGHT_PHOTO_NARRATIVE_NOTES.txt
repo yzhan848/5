@@ -1,0 +1,13 @@
+這版是接續 advantages_light_photo_narrative_site.zip 往下修改。
+
+調整內容：
+- 只修改 case.html 頁面最上方案例區塊
+- 拿掉原本的 page hero 文字與 spotlight 精選案例結構
+- 改成 5 張不重複照片的圖文敘事卡
+- 內容整理成 Brand website / WordPress content site / App showcase page / SEO growth case / Cloud operations
+- 延續米白、淺灰、乾淨商業感的 light 風格
+- 首段區塊不再使用原本的按鈕切換 spotlight 方式，改成直接閱讀的圖文案例敘事
+
+修改檔案：
+- case.html
+- CASE_LIGHT_PHOTO_NARRATIVE_PREVIEW.jpg

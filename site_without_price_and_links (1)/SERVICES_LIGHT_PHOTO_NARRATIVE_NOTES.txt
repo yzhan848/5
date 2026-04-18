@@ -1,0 +1,13 @@
+這版是接續 about_light_service_photo_narrative_site.zip 往下修改。
+
+調整內容：
+- 只修改 services.html 首段服務組合區塊
+- 拿掉原本 services 首段的大標與說明文字
+- 改成 5 張不重複照片的圖文敘事卡
+- 內容整理成 Website / WordPress / App / SEO / Cloud hosting
+- 延續米白、淺灰、乾淨商業感的 light 風格
+- 首段使用的照片避開 services 頁後面已使用的主圖，減少重複感
+
+修改檔案：
+- services.html
+- SERVICES_LIGHT_PHOTO_NARRATIVE_PREVIEW.jpg

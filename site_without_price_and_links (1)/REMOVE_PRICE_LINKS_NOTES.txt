@@ -1,0 +1,8 @@
+這版是接續 contact_light_photo_narrative_site.zip 往下修改。
+
+調整內容：
+- 已刪除所有指向 price.html 的連結
+- 清掉 header 導覽列中的 Price 連結
+- 清掉 footer 中的 Price 連結
+- 清掉 case-detail.html CTA 中原本指向 price.html 的按鈕
+- 其他內容不變

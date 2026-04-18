@@ -1,0 +1,8 @@
+V68：Contact／Price 也統一成照片敘事版。
+
+這版重點：
+1. Contact 首屏改成大圖＋雙圖側欄，先讓客戶看到合作與提案氛圍，再進表單。
+2. Contact 中段新增三張流程照片，對應需求整理、預算級距、排程確認。
+3. Price 首屏改成方案敘事 hero，不再只是文字＋價格卡。
+4. 三個價格方案都補上獨立照片，讓 Starter / Brand Site / Custom 的感受更清楚。
+5. Price 下半段新增照片流程帶與 FAQ＋單圖收尾，整頁和 Home / Services / About / Advantages 的照片語言一致。

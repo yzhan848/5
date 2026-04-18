@@ -1,0 +1,11 @@
+v41 Single Case Detail
+
+這版新增：
+1. case-detail.html 單一案例內頁
+2. Case 頁加入導流 CTA
+3. 案例內頁補齊背景、策略、輸出、視覺方向與成果區塊
+
+下一版最適合：
+- 真實詢問表單
+- 更完整 CTA 流程
+- FAQ / process 模組

@@ -1,0 +1,11 @@
+v40 Services + Price Expansion
+
+這版新增：
+1. Services 頁：把服務內容整理成正式提案型架構
+2. Price 頁：加入示意報價卡片與常見說明
+3. 全站導覽更新，Home / About / Services / Case / Price / Contact 更完整
+
+目前網站已經更接近正式商業版。下一輪最適合：
+- 單一案例內頁
+- 真實報價表單
+- 更完整 CTA 流程

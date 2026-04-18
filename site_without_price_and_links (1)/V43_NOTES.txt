@@ -1,0 +1,11 @@
+v43 Thank You Page
+
+這版新增：
+1. thank-you.html 成功頁
+2. Contact 表單送出後會導向成功頁
+3. CTA flow 形成完整閉環
+
+下一版最適合：
+- 真實寄信 / 串接 Google Form
+- FAQ / Process 獨立頁
+- 手機版細修

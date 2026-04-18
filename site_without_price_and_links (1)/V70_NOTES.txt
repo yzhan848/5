@@ -1,0 +1,9 @@
+v70：商業服務風格圖片統一版
+
+本版調整重點：
+1. 主要頁面使用的視覺素材，統一改成更貼近「網站 / WordPress / App / SEO / 雲端主機」的商業數位服務風格。
+2. 首頁、About、Services、Advantages、Case、Case Detail、Price、Contact 的主要圖片與案例 spotlight 圖已同步更新。
+3. Case spotlight 4（雲端維運）也改成雲端主機 / 部署 / 維運語言。
+4. 所有主要 img alt 文字同步改成數位服務導向敘述。
+
+這版重點是先把圖像語言統一；HTML 結構與文案延續 v69。

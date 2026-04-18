@@ -1,0 +1,12 @@
+v49 Advantages Commercial Design Company Version
+
+這版新增：
+1. 新增 advantages.html
+2. 首頁改成更偏網站設計公司官網語氣
+3. 全站 nav / footer 補上 Advantages 導覽
+4. 文案方向改成信任感、服務說明、詢問轉換
+
+下一版最適合：
+- About 敘事重構
+- Case 案例內容加深
+- 首頁更多真實品牌文案
